@@ -1,0 +1,83 @@
+{
+  "Guid": "2b0352df-1f93-4246-9484-fd2beb78e9bc",
+  "Success": true,
+  "Code": "0",
+  "Message": "Success",
+  "Data": {
+    "BannerList": [
+      {
+        "BannerGroupID": 219,
+        "StartDate": "2020-06-08T00:00:00Z",
+        "EndDate": "2020-07-23T23:59:59Z",
+        "Title": "ttest",
+        "PicName": "5d6e5993-3b54-4b46-82f2-2e4f9d3ad8b9.jpg",
+        "Url": "VIP 活動",
+        "DeviceCommGroupID": 1,
+        "UseType": 1,
+        "PictureType": 1,
+        "Activity_ID": 2,
+        "ImagePath": "http://mgt.dev.opebet5.com/Files/Market/o/5d6e5993-3b54-4b46-82f2-2e4f9d3ad8b9.jpg"
+      },
+      {
+        "BannerGroupID": 218,
+        "StartDate": "2020-06-08T00:00:00Z",
+        "EndDate": "2020-07-31T23:59:59Z",
+        "Title": "轉導測試",
+        "PicName": "b0e29760-6767-489b-8ee6-08ea6e1d5b7f.jpg",
+        "Url": "VIP 活動",
+        "DeviceCommGroupID": 1,
+        "UseType": 1,
+        "PictureType": 1,
+        "Activity_ID": 2,
+        "ImagePath": "http://mgt.dev.opebet5.com/Files/Market/o/b0e29760-6767-489b-8ee6-08ea6e1d5b7f.jpg"
+      }
+    ],
+    "MarqueeList": [],
+    "HotRaceManages": [
+      {
+        "HotRaceManageID": 3,
+        "StartRaceTime": "2020-07-09T00:00:00Z",
+        "StartDate": "2020-07-01T00:00:00Z",
+        "EndDate": "2020-07-31T00:00:00Z",
+        "BallType": 1,
+        "GameUnionRaceName": "通靈王大賽",
+        "MainTeamName": "麻倉葉",
+        "MainTeamLogo": "http://mgt.dev.opebet5.com/Files/SportMessage/o/77363da7-4ecc-4ec4-be1b-692d925ee30c.jpg",
+        "VisiteTeamName": "道蓮",
+        "VisiteTeamLogo": "http://mgt.dev.opebet5.com/Files/SportMessage/o/70134c9d-c416-4383-88ad-04f5a7f9234a.jpg",
+        "SportPlatform": 1,
+        "SportPlatformName": "OPE体育",
+        "PlatformRaceNo": "3",
+        "BallTypeName": "足球"
+      }
+    ],
+    "MemberInfo": {
+      "NowDate": "0001-01-01T00:00:00",
+      "Account": "opeope88",
+      "Name": "rxrcrcr",
+      "Sex": 0,
+      "BirthDay": null,
+      "QQ": "",
+      "CellPhone": "15236985475",
+      "CellPhoneStatus": 1,
+      "CountryCode": 0,
+      "ProvinceID": 6,
+      "City": "",
+      "Address": "",
+      "Email": "xtw88284@mziqo.com",
+      "EmailStatus": 1,
+      "BankPasswordStatus": 1,
+      "VIPLevel": 0,
+      "LevelEName": "VIP0",
+      "LastLoginDate": "2020-07-10T14:59:14.56Z",
+      "WeChat": "",
+      "CanApplyRescueGift": 0,
+      "CreateDate": "2018-04-27T14:39:25.84Z",
+      "MemberBank": 1,
+      "Percentage": 100
+    },
+    "ImportantNotices": [],
+    "MemberMainBalance": "0.00"
+  },
+  "Pagination": null
+}
